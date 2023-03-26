@@ -1,0 +1,12 @@
+D:\Courses\Api Book Project\Infrastructure.Core\bin\Debug\net5.0\Infrastructure.Core.deps.json
+D:\Courses\Api Book Project\Infrastructure.Core\bin\Debug\net5.0\Infrastructure.Core.dll
+D:\Courses\Api Book Project\Infrastructure.Core\bin\Debug\net5.0\Infrastructure.Core.pdb
+D:\Courses\Api Book Project\Infrastructure.Core\obj\Debug\net5.0\Infrastructure.Core.csproj.AssemblyReference.cache
+D:\Courses\Api Book Project\Infrastructure.Core\obj\Debug\net5.0\Infrastructure.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\Courses\Api Book Project\Infrastructure.Core\obj\Debug\net5.0\Infrastructure.Core.AssemblyInfoInputs.cache
+D:\Courses\Api Book Project\Infrastructure.Core\obj\Debug\net5.0\Infrastructure.Core.AssemblyInfo.cs
+D:\Courses\Api Book Project\Infrastructure.Core\obj\Debug\net5.0\Infrastructure.Core.csproj.CoreCompileInputs.cache
+D:\Courses\Api Book Project\Infrastructure.Core\obj\Debug\net5.0\Infrastructure.Core.dll
+D:\Courses\Api Book Project\Infrastructure.Core\obj\Debug\net5.0\refint\Infrastructure.Core.dll
+D:\Courses\Api Book Project\Infrastructure.Core\obj\Debug\net5.0\Infrastructure.Core.pdb
+D:\Courses\Api Book Project\Infrastructure.Core\obj\Debug\net5.0\ref\Infrastructure.Core.dll

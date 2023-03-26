@@ -1,0 +1,15 @@
+D:\Courses\Api Book Project\Infrastructure\bin\Debug\net5.0\Infrastructure.deps.json
+D:\Courses\Api Book Project\Infrastructure\bin\Debug\net5.0\Infrastructure.runtimeconfig.json
+D:\Courses\Api Book Project\Infrastructure\bin\Debug\net5.0\Infrastructure.runtimeconfig.dev.json
+D:\Courses\Api Book Project\Infrastructure\bin\Debug\net5.0\Infrastructure.dll
+D:\Courses\Api Book Project\Infrastructure\bin\Debug\net5.0\Infrastructure.pdb
+D:\Courses\Api Book Project\Infrastructure\obj\Debug\net5.0\Infrastructure.csproj.AssemblyReference.cache
+D:\Courses\Api Book Project\Infrastructure\obj\Debug\net5.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\Courses\Api Book Project\Infrastructure\obj\Debug\net5.0\Infrastructure.AssemblyInfoInputs.cache
+D:\Courses\Api Book Project\Infrastructure\obj\Debug\net5.0\Infrastructure.AssemblyInfo.cs
+D:\Courses\Api Book Project\Infrastructure\obj\Debug\net5.0\Infrastructure.csproj.CoreCompileInputs.cache
+D:\Courses\Api Book Project\Infrastructure\obj\Debug\net5.0\Infrastructure.dll
+D:\Courses\Api Book Project\Infrastructure\obj\Debug\net5.0\refint\Infrastructure.dll
+D:\Courses\Api Book Project\Infrastructure\obj\Debug\net5.0\Infrastructure.pdb
+D:\Courses\Api Book Project\Infrastructure\obj\Debug\net5.0\Infrastructure.genruntimeconfig.cache
+D:\Courses\Api Book Project\Infrastructure\obj\Debug\net5.0\ref\Infrastructure.dll
